@@ -59,7 +59,6 @@ An open-source Bee Swarm Simulator macro written in AutoHotkey!<br>
 - [ ] Puffshrooms
 - [ ] Stick Bug Challenge
 - [ ] Material Collector + Item Purchaser
-- [ ] Rogue Vicious Bee: Server Hop
 - [ ] Wild Windy Bee + Server Hop
 - [ ] Customizable Cycle Amount for Manual Planters
 - [ ] Fireflies
