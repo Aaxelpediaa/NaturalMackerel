@@ -67,6 +67,7 @@ An open-source Bee Swarm Simulator macro written in AutoHotkey!<br>
 - [ ] Sprouts + Special Sprout Summoner
 - [ ] Bean Bugs
 - [ ] Robo Bear Challenge
+- [ ] Digital Bee Upgrader
 - [ ] Robo Party
 - [ ] Questlines (Black/Mother/Panda/Science/Dapper/Spirit/Onett)
 - [ ] Amulet Evaluator (Mixed, Red, Blue, White Hives)
