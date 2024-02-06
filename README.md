@@ -39,12 +39,46 @@ The only official sources are:
 An open-source Bee Swarm Simulator macro written in AutoHotkey!<br>
 </div>
 
-
-<a name="installation"><h2>🛠️ Installation</h2></a>
+<a name="planned_features"><h2>🛠️ Installation</h2></a>
 
 1. Download `Natro_Macro_v#.#.#.zip` from the [latest release][latest-release-link]
 2. Open `Natro_Macro_v#.#.#` and double-click the folder inside
 3. Run `START.bat` and wait for the macro to load
+
+<a name="installation"><h2>👀 Planned Features</h2></a>
+- [ ] Tide Popper Gathering Path for Blue Flower, Bamboo, Stump and Pine Tree
+- [ ] Dark Scythe Gathering Path for Mushroom, Strawberry, Rose and Pepper
+- [ ] Gummyballer Gathering Path for Sunflower, Spider, Pineapple, Pumpkin and Coconut
+- [ ] Snow Machine
+- [ ] Snowbear
+- [ ] Mythic Meteor Shower
+- [ ] Nectar Pot
+- [ ] Nectar Condenser
+- [ ] Naughty List
+- [ ] Memory Match (Normal, Mega, Night, Extreme, Winter)
+- [ ] Puffshrooms
+- [ ] Stick Bug Challenge
+- [ ] Material Collector + Item Purchaser
+- [ ] Rogue Vicious Bee: Server Hop
+- [ ] Wild Windy Bee + Server Hop
+- [ ] Customizable Cycle Amount for Manual Planters
+- [ ] Fireflies
+- [ ] Guiding Star Gather
+- [ ] Star Shower Catcher
+- [ ] Sprouts + Special Sprout Summoner
+- [ ] Bean Bugs
+- [ ] Robo Bear Challenge
+- [ ] Robo Party
+- [ ] Questlines (Black/Mother/Panda/Science/Dapper/Spirit/Onett)
+- [ ] Amulet Evaluator (Mixed, Red, Blue, White Hives)
+- [ ] Sticker-Seeker Quests
+- [ ] Roll Amulets (Moon, Star)
+- [ ] Token Collecting (Whitelist and Blacklist)
+- [ ] Using Blue/Yellow Cannons, Slingshot and Blue/Red Portals for travelling
+- [ ] Gather Path Preview
+- [ ] Sticker Printer: Silver, Diamond, Mythic, Star, Gifted Eggs + Queue
+- [ ] Hive Hub Gather Path
+- [ ] Hive Optimizer (Mutating, Gifting, Composing, Beequips, Levelling Up)
 
 
 <a name="community"><h2>🌎 Community</h2></a>
