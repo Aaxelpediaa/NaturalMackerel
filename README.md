@@ -49,21 +49,21 @@ An open-source Bee Swarm Simulator macro written in AutoHotkey!<br>
 - [ ] Tide Popper Gathering Path for Blue Flower, Bamboo, Stump and Pine Tree
 - [ ] Dark Scythe Gathering Path for Mushroom, Strawberry, Rose and Pepper
 - [ ] Gummyballer Gathering Path for Sunflower, Spider, Pineapple, Pumpkin and Coconut
-- [ ] Snow Machine
 - [ ] Snowbear
 - [ ] Mythic Meteor Shower
 - [ ] Nectar Pot
 - [ ] Nectar Condenser
 - [ ] Naughty List
-- [ ] Memory Match (Normal, Mega, Night, Extreme, Winter)
 - [ ] Puffshrooms
 - [ ] Stick Bug Challenge
 - [ ] Material Collector + Item Purchaser
+- [ ] Rogue Vicious Bee Server Hop
 - [ ] Wild Windy Bee + Server Hop
 - [ ] Customizable Cycle Amount for Manual Planters
 - [ ] Fireflies
 - [ ] Guiding Star Gather
 - [ ] Star Shower Catcher
+- [ ] Field Object Collector (e.g. Bubbles, Flames, Targets, Coconuts etc.)
 - [ ] Sprouts + Special Sprout Summoner
 - [ ] Bean Bugs
 - [ ] Robo Bear Challenge
@@ -76,7 +76,6 @@ An open-source Bee Swarm Simulator macro written in AutoHotkey!<br>
 - [ ] Token Collecting (Whitelist and Blacklist)
 - [ ] Using Blue/Yellow Cannons, Slingshot and Blue/Red Portals for travelling
 - [ ] Gather Path Preview
-- [ ] Sticker Printer: Silver, Diamond, Mythic, Star, Gifted Eggs + Queue
 - [ ] Hive Hub Gather Path
 - [ ] Hive Optimizer (Mutating, Gifting, Composing, Beequips, Levelling Up)
 
