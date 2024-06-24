@@ -4,11 +4,11 @@
 / /\  / (_| | |_| | | (_) | / /\/\ \ (_| | (__| | | (_) |
 \_\ \/ \__,_|\__|_|  \___/  \/    \/\__,_|\___|_|  \___/                                                    
 
-Thanks for downloading Natro Macro!
+Thanks for downloading Natro Macro Plus!
 
 To start the macro, just open 'START.bat'!
 
-If you need help or want to discuss, join our Discord server!
+If you need help or want to discuss, join the official Natro Macro Discord server!
 
 Feel free to give us a Star on GitHub!
 
@@ -36,16 +36,16 @@ The only official sources are:
 [![][discord-shield]][discord-link]
 [![][roblox-shield]][roblox-link]
 <br>
-An open-source Bee Swarm Simulator macro written in AutoHotkey!<br>
+An open-source Bee Swarm Simulator macro written in AutoHotkey, now expanded and enhanced with brand new features!<br>
 </div>
 
-<a name="planned_features"><h2>🛠️ Installation</h2></a>
+<a name="installation"><h2>🛠️ Installation</h2></a>
 
-1. Download `Natro_Macro_v#.#.#.zip` from the [latest release][latest-release-link]
-2. Open `Natro_Macro_v#.#.#` and double-click the folder inside
+1. Download `Natro_Macro_Plus_v#.#.#.zip` from the [latest release][latest-release-link]
+2. Open `Natro_Macro_Plus_v#.#.#` and double-click the folder inside
 3. Run `START.bat` and wait for the macro to load
 
-<a name="installation"><h2>👀 Planned Features</h2></a>
+<a name="planned_features"><h2>👀 Planned Features</h2></a>
 - [ ] Tide Popper Gathering Path for Blue Flower, Bamboo, Stump and Pine Tree
 - [ ] Dark Scythe Gathering Path for Mushroom, Strawberry, Rose and Pepper
 - [ ] Gummyballer Gathering Path for Sunflower, Spider, Pineapple, Pumpkin and Coconut
