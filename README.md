@@ -51,6 +51,7 @@ An open-source Bee Swarm Simulator macro written in AutoHotkey, now expanded and
 
 <a name="planned_features"><h2>👀 Planned Features</h2></a>
 - [ ] Snowbear
+- [ ] Ant Challenge (but better)
 - [ ] Mythic Meteor Shower
 - [ ] Nectar Pot
 - [ ] Nectar Condenser
@@ -60,10 +61,16 @@ An open-source Bee Swarm Simulator macro written in AutoHotkey, now expanded and
 - [ ] Material Collector + Item Purchaser
 - [ ] Rogue Vicious Bee Server Hop
 - [ ] Wild Windy Bee + Server Hop
+- [ ] Mondo Chick Server Hop
+- [ ] Planter Chains
+- [ ] Smoking Planter Detector
+- [ ] Leaderboard Sync
+- [ ] VIP Server Lag Handling (Auto-Shutdown)
 - [ ] Customizable Cycle Amount for Manual Planters
 - [ ] Fireflies
 - [ ] Guiding Star Gather
 - [ ] Star Shower Catcher
+- [ ] Auto High-Level Endgame Boosting
 - [ ] Field Object Collector (e.g. Bubbles, Flames, Targets, Coconuts etc.)
 - [ ] Sprouts + Special Sprout Summoner
 - [ ] Bean Bugs
@@ -75,8 +82,11 @@ An open-source Bee Swarm Simulator macro written in AutoHotkey, now expanded and
 - [ ] Sticker-Seeker Quests
 - [ ] Roll Amulets (Moon, Star)
 - [ ] Token Collecting (Whitelist and Blacklist)
+- [ ] Dapper Shop Checker
 - [ ] Using Blue/Yellow Cannons, Slingshot and Blue/Red Portals for travelling
 - [ ] Gather Path Preview
+- [ ] Auto Beequip Waxer
+- [ ] Sticker Sprout Farmer
 - [ ] Hive Hub Gather Path
 - [ ] Hive Optimizer (Mutating, Gifting, Composing, Beequips, Levelling Up)
 - [ ] Sticker Farmer
