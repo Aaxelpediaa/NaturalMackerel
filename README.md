@@ -50,9 +50,6 @@ An open-source Bee Swarm Simulator macro written in AutoHotkey, now expanded and
 3. Run `START.bat` and wait for the macro to load
 
 <a name="planned_features"><h2>👀 Planned Features</h2></a>
-- [ ] Tide Popper Gathering Path for Blue Flower, Bamboo, Stump and Pine Tree
-- [ ] Dark Scythe Gathering Path for Mushroom, Strawberry, Rose and Pepper
-- [ ] Gummyballer Gathering Path for Sunflower, Spider, Pineapple, Pumpkin and Coconut
 - [ ] Snowbear
 - [ ] Mythic Meteor Shower
 - [ ] Nectar Pot
