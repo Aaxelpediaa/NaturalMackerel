@@ -4,7 +4,7 @@
 / /\  / (_| | |_| | | (_) | / /\/\ \ (_| | (__| | | (_) |
 \_\ \/ \__,_|\__|_|  \___/  \/    \/\__,_|\___|_|  \___/                                                    
 
-Thanks for downloading Natro Macro Plus!
+Thanks for downloading Natural Mackerel!
 
 To start the macro, just open 'START.bat'!
 
@@ -23,7 +23,7 @@ The only official sources are:
 
 <!-- no official site warning -->
 > [!CAUTION]
-> We do **not** have a website. The only official place to download Natro Macro is this repository and [discord.gg/natromacro][discord-link].
+> We do **not** have a website. The only official place to download Natural Mackerel is this repository.
 
 <div align="center">
 
@@ -40,13 +40,13 @@ The only official sources are:
 [![][discord-shield]][discord-link]
 [![][roblox-shield]][roblox-link]
 <br>
-An open-source Bee Swarm Simulator macro written in AutoHotkey, now expanded and enhanced with brand new features!<br>
+An open-source Bee Swarm Simulator macro written in AutoHotkey, now expanded and enhanced with brand new game-changing features!<br>
 </div>
 
 <a name="installation"><h2>🛠️ Installation</h2></a>
 
-1. Download `Natro_Macro_Plus_v#.#.#.zip` from the [latest release][latest-release-link]
-2. Open `Natro_Macro_Plus_v#.#.#` and double-click the folder inside
+1. Download `Natural_Mackerel_v#.#.#.zip` from the [latest release][latest-release-link]
+2. Open `Natural_Mackerel_Plus_v#.#.#` and double-click the folder inside
 3. Run `START.bat` and wait for the macro to load
 
 <a name="planned_features"><h2>👀 Planned Features</h2></a>
@@ -123,7 +123,7 @@ For discussions, please join us on [Discord][discord-link] instead!
 
 <a name="credits"><h2>💝 Credits</h2></a>
 
-Natro Macro wouldn't be possible without the help and inspiration of many extraordinary individuals.<br>
+Natural Mackerel wouldn't be possible without the help and inspiration of an extraordinary individual.<br>
 We want to show our gratitude to all of you, so please check out our [list of credits][credits-link]!
 
 Thank you all for your hard work and support!
@@ -131,13 +131,13 @@ Thank you all for your hard work and support!
 
 <a name="stars"><h2>🌠 Stars</h2></a>
 
-If Natro Macro helped you, let us know by giving it a ⭐ $\color{yellow}{\textsf{Star}}$ on GitHub!<br>
+If Natural Mackerel helped you, let us know by giving it a ⭐ $\color{yellow}{\textsf{Star}}$ on GitHub!<br>
 You can do this by scrolling up and clicking the Star button at the top of the page!
 
-<a href="https://github.com/NatroTeam/NatroMacro/stargazers">
+<a href="https://github.com/Aaxelpediaa/NaturalMackerel/stargazers">
   <picture>
-    <source media="(prefers-color-scheme: light)" srcset="http://reporoster.com/stars/NatroTeam/NatroMacro"> <!-- light theme -->
-    <img alt="stargazer-widget" src="http://reporoster.com/stars/dark/NatroTeam/NatroMacro"> <!-- dark theme -->
+    <source media="(prefers-color-scheme: light)" srcset="http://reporoster.com/stars/Aaxelpediaa/NaturalMackerel"> <!-- light theme -->
+    <img alt="stargazer-widget" src="http://reporoster.com/stars/dark/Aaxelpediaa/NaturalMackerel"> <!-- dark theme -->
   </picture>
 </a>
 
